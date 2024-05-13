@@ -1,0 +1,47 @@
+
+
+.index-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .index-page .post {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .index-page .post-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .index-page .post-summary {
+    color: #777;
+    margin-bottom: 10px;
+  }
+  
+  .index-page .post-date {
+    font-size: 14px;
+    color: #999;
+  }
+  
+  .index-page .post-author {
+    font-size: 14px;
+    color: #999;
+  }
+  
+  .index-page .post-link {
+    display: block;
+    margin-top: 10px;
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .index-page .post-link:hover {
+    text-decoration: underline;
+  }
+  

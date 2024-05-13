@@ -1,0 +1,44 @@
+.welcome-page {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .welcome-page h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .welcome-page p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .welcome-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .btn-secondary {
+    background-color: #6c757d;
+    color: #fff;
+  }
+  
+  .btn:hover {
+    opacity: 0.8;
+  }
+  
